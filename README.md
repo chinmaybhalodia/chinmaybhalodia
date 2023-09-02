@@ -1,5 +1,5 @@
 <h1 align="left">Hello👋, I'm Chinmay Bhalodia</h1>
-<h3 align="left">A third year CSE student at IIITV-ICD. Full Stack MERN developer and UI/UX enthusiast. Looking forward to collaborate on some cool projects!</h3>
+<h3 align="left">A final year CSE student at IIITV-ICD. Full Stack MERN developer and UI/UX enthusiast. Looking forward to collaborate on some cool projects!</h3>
 
 ## 💫 About Me:
 👯 I’m looking to collaborate on Full Stack Web Development Projects.<br><br>📫 Reach me @ chinmaybhalodia@gmail.com
